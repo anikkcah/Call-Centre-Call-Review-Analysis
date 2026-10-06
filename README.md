@@ -1,2 +1,55 @@
 # Call-Centre-Call-Review-Analysis
 Power BI Dashboard visualization of Call Centre call data for a duration of 3 months from 1st Jan 2021 to 31st March 2021.
+
+## Overview
+This repository contains a Power-BI analytics solution designed to provide insights into the Call Centre performance of an organization for a duration of 3 months of 2021.Agentwise distribution of calls, number of calls per month, call acceptance and rejection rate are among the KPIs tracked in the dashboard.
+
+The Key Performance Indicators (KPIs) used in the analysis are enlisted in the document 'Analyzation(Requirements).docx'. 
+
+## Project Structure
+
+project  <br>
+├── README.md # Documentation <br>
+├── datasets/ # raw and cleaned data sources <br>
+├── visuals/ # exported screenshots of dashboards <br>
+├── reports/ # Power BI project files (.pbip) <br>
+└── Analyzation(Requirements).docx
+
+
+## Technologies Used
+
+* Power BI Desktop - Data Modeling and Visualization
+* SQL or Python - Data preprocessing and ETL
+* GitHub - Version Control and Collaboration
+
+## Key Features
+
+* Interactive Dashboards with drill-down filters
+* Trend Analysis and Forecasting
+* KPI tracking across multiple dimensions
+* Exportable reports for stakeholders
+
+## Setup Instructions
+
+* Clone the repository
+* Open the .pbip file in Power BI Desktop
+* Update the data source connections in dataset settings
+* Refresh the report to load data
+
+## Dashboard Preview
+
+![Project Image](visuals/call-centre-performance.png) <br>
+
+## Contributing
+
+Contributions are Welcome!
+
+* Fork the Repository
+* Create a Feature Branch
+* Submit a Pull Request
+
+
+
+
+
+
