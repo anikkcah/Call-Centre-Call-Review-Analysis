@@ -38,7 +38,7 @@ project  <br>
 
 ## Dashboard Preview
 
-![Project Image](visuals/call-centre-performance.png) <br>
+![Project Image](visuals/call_centre_performance.png) <br>
 
 ## Contributing
 
